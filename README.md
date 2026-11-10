@@ -26,7 +26,7 @@ MovieLens_Collaborative_Filtering_Recommendation_System/
 1. Clone or download this repository and open a terminal in its root directory.
 2. Install the dependencies using `python -m pip install -r requirements.txt`.
 3. Launch Jupyter with `jupyter lab` (or open the notebook in Google Colab).
-4. Run the notebook cells in order. **Keep `ml-latest-small.zip` in the same working directory as the notebook**; the notebook expects this exact filename and the enclosed `ml-latest-small/` directory.
+4. Run the notebook cells in order. **Keep `ml-latest-small.zip` in the same working directory as the notebook** - the notebook expects this exact filename and the enclosed `ml-latest-small/` directory.
 5. The notebook extracts the CSV files to `data/raw/` and saves evaluation reports in `outputs/` automatically.
 
 For **Google Colab**, upload both the `.ipynb` and `ml-latest-small.zip` into the Colab runtime working directory before running the notebook. No notebook edits are needed when its working directory contains the ZIP.
